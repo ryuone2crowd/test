@@ -1,3 +1,3 @@
 <?php
 phpinfo();
-echo "1234";
+echo "12345";
