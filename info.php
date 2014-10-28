@@ -1,3 +1,3 @@
 <?php
 phpinfo();
-echo "12345";
+echo("Updated");
